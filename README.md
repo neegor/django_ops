@@ -1,1 +1,1 @@
-# Django Ops
+# Django Boilerplate
